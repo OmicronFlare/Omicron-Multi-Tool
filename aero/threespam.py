@@ -49,7 +49,5 @@ def main():
        if gta == "03" or gta == "3":
            changeusernamehookfr()
         
-       if gta == "X" or gta == "x":
+       if gta == "#" or gta == "#":
            break
-
-
