@@ -62,7 +62,7 @@ def massdm(token3, msg):
 
 def run():
     while True:
-        print(Colorate.Diagonal(Colors.yellow_to_red, Center.XCenter(webhookthing)))
+        print(Colorate.Diagonal(Colors.yellow_to_red, Center.XCenter(tokenting)))
         nigga = input(Colorate.Diagonal(Colors.green_to_red, Center.XCenter("Selection > ")))
 
         if nigga == "1" or nigga == "01":
